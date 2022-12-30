@@ -1,7 +1,7 @@
 # MobileApplication
 Created Using Android Studio for mobile
 
-Copy Paste the lib folder into your project.
+Copy paste the lib folder into your project.
 
 Copy paste the pubspec.yaml as well.
 
