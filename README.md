@@ -1,6 +1,10 @@
 # MobileApplication
 Created Using Android Studio for mobile
 
+Copy Paste the lib folder into your project.
+
+Copy paste the pubspec as well.
+
 ![image](https://user-images.githubusercontent.com/121462721/210023541-2ee813bd-18f5-4da6-97d4-b5043f253452.png)
 ![image](https://user-images.githubusercontent.com/121462721/210023583-82e0719e-f454-4c80-b0c0-7ef3b22062c2.png)
 
